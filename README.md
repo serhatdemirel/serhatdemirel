@@ -76,40 +76,6 @@ Modern collaboration application inspired by Slack.
 
 Social media application inspired by Twitter.
 
-[View Repository](https://github.com/serhatdemirel/twitter-clone)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=serhatdemirel&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhatdemirel&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=serhatdemirel&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/serhatdemirel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <div align="center">
