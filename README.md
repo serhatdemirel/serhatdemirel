@@ -2,16 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Serhat%20Demirel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%7C%20AI%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+SaaS+%26+Web+Applications;Exploring+AI+%26+Automation+🚀;Building+Pingo+🌍" alt="Typing SVG" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=serhatdemirel&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-38BDF8?style=for-the-badge" />
-
 </div>
 
 <br>
