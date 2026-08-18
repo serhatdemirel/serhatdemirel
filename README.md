@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Serhat%20Demirel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%7C%20AI%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Serhat%20Demirel%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%7C%20AI%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;SaaS+%26+Web+Uygulamaları+Geliştiriyorum;AI+%26+Automation+ile+ilgileniyorum+🚀;Pingo+üzerinde+çalışıyorum+🌍" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+SaaS+%26+Web+Applications;Exploring+AI+%26+Automation+🚀;Building+Pingo+🌍" alt="Typing SVG" />
 </a>
 
 <br>
@@ -17,19 +17,19 @@
 <br>
 
 ```text
-isim:        Serhat Demirel
-rol:         Full Stack Developer
-odak:        TypeScript · Next.js · SaaS · AI
-şu_an:       Pingo ve yeni web ürünleri geliştiriyor
-ilgi_alanı:  Web Development, SaaS, AI, Automation, Product Development
+name:       Serhat Demirel
+role:       Full Stack Developer
+focus:      TypeScript · Next.js · SaaS · AI
+currently:  Building Pingo and new web products
+interests:  Web Development, SaaS, AI, Automation, Product Development
 ```
 
-* 💻 **Full Stack** web uygulamaları ve SaaS ürünleri geliştiriyorum
-* 🚀 Fikirleri gerçek ve kullanılabilir ürünlere dönüştürmeyi seviyorum
-* 🤖 **AI, automation ve modern web teknolojileri** ile ilgileniyorum
-* 🌍 Şu anda sosyal seyahat uygulaması **Pingo** üzerinde çalışıyorum
-* 🌱 Yeni teknolojileri öğrenmeye ve farklı ürün fikirleri geliştirmeye devam ediyorum
-* 📫 Benimle iletişime geçmek veya projelerimi incelemek için aşağıdaki bağlantıları kullanabilirsiniz
+* 💻 I build **full-stack web applications and SaaS products**
+* 🚀 I enjoy turning ideas into real and usable products
+* 🤖 I'm interested in **AI, automation and modern web technologies**
+* 🌍 Currently building **Pingo**, a social travel application
+* 🌱 Always learning new technologies and experimenting with new product ideas
+* 📫 Feel free to reach out or explore my projects through the links below
 
 <br>
 
@@ -59,12 +59,14 @@ ilgi_alanı:  Web Development, SaaS, AI, Automation, Product Development
 
 ### Trips · Events · People
 
-**Pingo**, seyahat eden insanların gezi planlamasını, etkinlikleri keşfetmesini ve aynı destinasyondaki diğer gezginlerle bağlantı kurmasını kolaylaştıran sosyal bir seyahat uygulamasıdır.
+**Pingo** is a social travel app designed to make traveling more connected.
 
-✈️ Seyahat planları oluştur
-📍 Yakındaki etkinlikleri ve yerleri keşfet
-🤖 AI destekli seyahat planlarından yararlan
-🌍 Aynı destinasyondaki gezginlerle tanış
+Plan your trips, discover local events and places, and connect with travelers heading to the same destination.
+
+✈️ Create and organize your trips
+📍 Discover nearby events and places
+🤖 Get AI-powered travel recommendations
+🌍 Meet travelers visiting the same destination
 
 <br>
 
@@ -84,7 +86,7 @@ ilgi_alanı:  Web Development, SaaS, AI, Automation, Product Development
 
 <div align="center">
 
-**Diller & Frameworkler**
+**Languages & Frameworks**
 
 <br>
 
@@ -92,7 +94,7 @@ ilgi_alanı:  Web Development, SaaS, AI, Automation, Product Development
 
 <br><br>
 
-**Veritabanı, Araçlar & Platformlar**
+**Databases, Tools & Platforms**
 
 <br>
 
@@ -134,6 +136,6 @@ ilgi_alanı:  Web Development, SaaS, AI, Automation, Product Development
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
-**⭐ Profilime uğradığınız için teşekkürler! Birlikte güzel şeyler üretmek dileğiyle 🚀**
+**⭐ Thanks for visiting my profile! Let's build something great together 🚀**
 
 </div>
